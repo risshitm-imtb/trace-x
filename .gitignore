@@ -25,3 +25,10 @@ data/processed/
 # ML artifacts
 models/*.pkl
 models/*.joblib
+
+# Local database
+*.db
+*.sqlite
+*.sqlite3
+data/geoip/*.mmdb
+trace_x.db
